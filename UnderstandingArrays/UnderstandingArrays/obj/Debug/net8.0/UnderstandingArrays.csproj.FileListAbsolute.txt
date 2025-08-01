@@ -1,0 +1,14 @@
+C:\Users\Shamil_Aliyev\source\repos\UnderstandingArrays\UnderstandingArrays\bin\Debug\net8.0\UnderstandingArrays.exe
+C:\Users\Shamil_Aliyev\source\repos\UnderstandingArrays\UnderstandingArrays\bin\Debug\net8.0\UnderstandingArrays.deps.json
+C:\Users\Shamil_Aliyev\source\repos\UnderstandingArrays\UnderstandingArrays\bin\Debug\net8.0\UnderstandingArrays.runtimeconfig.json
+C:\Users\Shamil_Aliyev\source\repos\UnderstandingArrays\UnderstandingArrays\bin\Debug\net8.0\UnderstandingArrays.dll
+C:\Users\Shamil_Aliyev\source\repos\UnderstandingArrays\UnderstandingArrays\bin\Debug\net8.0\UnderstandingArrays.pdb
+C:\Users\Shamil_Aliyev\source\repos\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\UnderstandingArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shamil_Aliyev\source\repos\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\UnderstandingArrays.AssemblyInfoInputs.cache
+C:\Users\Shamil_Aliyev\source\repos\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\UnderstandingArrays.AssemblyInfo.cs
+C:\Users\Shamil_Aliyev\source\repos\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\UnderstandingArrays.csproj.CoreCompileInputs.cache
+C:\Users\Shamil_Aliyev\source\repos\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\UnderstandingArrays.dll
+C:\Users\Shamil_Aliyev\source\repos\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\refint\UnderstandingArrays.dll
+C:\Users\Shamil_Aliyev\source\repos\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\UnderstandingArrays.pdb
+C:\Users\Shamil_Aliyev\source\repos\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\UnderstandingArrays.genruntimeconfig.cache
+C:\Users\Shamil_Aliyev\source\repos\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\ref\UnderstandingArrays.dll

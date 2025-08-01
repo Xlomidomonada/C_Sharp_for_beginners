@@ -1,0 +1,14 @@
+C:\Users\Shamil_Aliyev\source\repos\WorkingWithStrings\WorkingWithStrings\bin\Debug\net8.0\WorkingWithStrings.exe
+C:\Users\Shamil_Aliyev\source\repos\WorkingWithStrings\WorkingWithStrings\bin\Debug\net8.0\WorkingWithStrings.deps.json
+C:\Users\Shamil_Aliyev\source\repos\WorkingWithStrings\WorkingWithStrings\bin\Debug\net8.0\WorkingWithStrings.runtimeconfig.json
+C:\Users\Shamil_Aliyev\source\repos\WorkingWithStrings\WorkingWithStrings\bin\Debug\net8.0\WorkingWithStrings.dll
+C:\Users\Shamil_Aliyev\source\repos\WorkingWithStrings\WorkingWithStrings\bin\Debug\net8.0\WorkingWithStrings.pdb
+C:\Users\Shamil_Aliyev\source\repos\WorkingWithStrings\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shamil_Aliyev\source\repos\WorkingWithStrings\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.AssemblyInfoInputs.cache
+C:\Users\Shamil_Aliyev\source\repos\WorkingWithStrings\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.AssemblyInfo.cs
+C:\Users\Shamil_Aliyev\source\repos\WorkingWithStrings\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\Shamil_Aliyev\source\repos\WorkingWithStrings\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.dll
+C:\Users\Shamil_Aliyev\source\repos\WorkingWithStrings\WorkingWithStrings\obj\Debug\net8.0\refint\WorkingWithStrings.dll
+C:\Users\Shamil_Aliyev\source\repos\WorkingWithStrings\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.pdb
+C:\Users\Shamil_Aliyev\source\repos\WorkingWithStrings\WorkingWithStrings\obj\Debug\net8.0\WorkingWithStrings.genruntimeconfig.cache
+C:\Users\Shamil_Aliyev\source\repos\WorkingWithStrings\WorkingWithStrings\obj\Debug\net8.0\ref\WorkingWithStrings.dll

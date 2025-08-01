@@ -1,0 +1,14 @@
+C:\Users\Shamil_Aliyev\source\repos\Decisions\Decisions\bin\Debug\net8.0\Decisions.exe
+C:\Users\Shamil_Aliyev\source\repos\Decisions\Decisions\bin\Debug\net8.0\Decisions.deps.json
+C:\Users\Shamil_Aliyev\source\repos\Decisions\Decisions\bin\Debug\net8.0\Decisions.runtimeconfig.json
+C:\Users\Shamil_Aliyev\source\repos\Decisions\Decisions\bin\Debug\net8.0\Decisions.dll
+C:\Users\Shamil_Aliyev\source\repos\Decisions\Decisions\bin\Debug\net8.0\Decisions.pdb
+C:\Users\Shamil_Aliyev\source\repos\Decisions\Decisions\obj\Debug\net8.0\Decisions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shamil_Aliyev\source\repos\Decisions\Decisions\obj\Debug\net8.0\Decisions.AssemblyInfoInputs.cache
+C:\Users\Shamil_Aliyev\source\repos\Decisions\Decisions\obj\Debug\net8.0\Decisions.AssemblyInfo.cs
+C:\Users\Shamil_Aliyev\source\repos\Decisions\Decisions\obj\Debug\net8.0\Decisions.csproj.CoreCompileInputs.cache
+C:\Users\Shamil_Aliyev\source\repos\Decisions\Decisions\obj\Debug\net8.0\Decisions.dll
+C:\Users\Shamil_Aliyev\source\repos\Decisions\Decisions\obj\Debug\net8.0\refint\Decisions.dll
+C:\Users\Shamil_Aliyev\source\repos\Decisions\Decisions\obj\Debug\net8.0\Decisions.pdb
+C:\Users\Shamil_Aliyev\source\repos\Decisions\Decisions\obj\Debug\net8.0\Decisions.genruntimeconfig.cache
+C:\Users\Shamil_Aliyev\source\repos\Decisions\Decisions\obj\Debug\net8.0\ref\Decisions.dll

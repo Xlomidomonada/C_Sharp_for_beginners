@@ -1,0 +1,14 @@
+C:\Users\Shamil_Aliyev\source\repos\SimpleClasses\SimpleClasses\bin\Debug\net8.0\SimpleClasses.exe
+C:\Users\Shamil_Aliyev\source\repos\SimpleClasses\SimpleClasses\bin\Debug\net8.0\SimpleClasses.deps.json
+C:\Users\Shamil_Aliyev\source\repos\SimpleClasses\SimpleClasses\bin\Debug\net8.0\SimpleClasses.runtimeconfig.json
+C:\Users\Shamil_Aliyev\source\repos\SimpleClasses\SimpleClasses\bin\Debug\net8.0\SimpleClasses.dll
+C:\Users\Shamil_Aliyev\source\repos\SimpleClasses\SimpleClasses\bin\Debug\net8.0\SimpleClasses.pdb
+C:\Users\Shamil_Aliyev\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net8.0\SimpleClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shamil_Aliyev\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net8.0\SimpleClasses.AssemblyInfoInputs.cache
+C:\Users\Shamil_Aliyev\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net8.0\SimpleClasses.AssemblyInfo.cs
+C:\Users\Shamil_Aliyev\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net8.0\SimpleClasses.csproj.CoreCompileInputs.cache
+C:\Users\Shamil_Aliyev\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net8.0\SimpleClasses.dll
+C:\Users\Shamil_Aliyev\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net8.0\refint\SimpleClasses.dll
+C:\Users\Shamil_Aliyev\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net8.0\SimpleClasses.pdb
+C:\Users\Shamil_Aliyev\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net8.0\SimpleClasses.genruntimeconfig.cache
+C:\Users\Shamil_Aliyev\source\repos\SimpleClasses\SimpleClasses\obj\Debug\net8.0\ref\SimpleClasses.dll
