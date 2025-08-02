@@ -1,0 +1,11 @@
+C:\Users\Shamil_Aliyev\source\repos\Lesson18\TheScrapeLibrary\bin\Debug\net8.0\TheScrapeLibrary.deps.json
+C:\Users\Shamil_Aliyev\source\repos\Lesson18\TheScrapeLibrary\bin\Debug\net8.0\TheScrapeLibrary.dll
+C:\Users\Shamil_Aliyev\source\repos\Lesson18\TheScrapeLibrary\bin\Debug\net8.0\TheScrapeLibrary.pdb
+C:\Users\Shamil_Aliyev\source\repos\Lesson18\TheScrapeLibrary\obj\Debug\net8.0\TheScrapeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shamil_Aliyev\source\repos\Lesson18\TheScrapeLibrary\obj\Debug\net8.0\TheScrapeLibrary.AssemblyInfoInputs.cache
+C:\Users\Shamil_Aliyev\source\repos\Lesson18\TheScrapeLibrary\obj\Debug\net8.0\TheScrapeLibrary.AssemblyInfo.cs
+C:\Users\Shamil_Aliyev\source\repos\Lesson18\TheScrapeLibrary\obj\Debug\net8.0\TheScrapeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Shamil_Aliyev\source\repos\Lesson18\TheScrapeLibrary\obj\Debug\net8.0\TheScrapeLibrary.dll
+C:\Users\Shamil_Aliyev\source\repos\Lesson18\TheScrapeLibrary\obj\Debug\net8.0\refint\TheScrapeLibrary.dll
+C:\Users\Shamil_Aliyev\source\repos\Lesson18\TheScrapeLibrary\obj\Debug\net8.0\TheScrapeLibrary.pdb
+C:\Users\Shamil_Aliyev\source\repos\Lesson18\TheScrapeLibrary\obj\Debug\net8.0\ref\TheScrapeLibrary.dll

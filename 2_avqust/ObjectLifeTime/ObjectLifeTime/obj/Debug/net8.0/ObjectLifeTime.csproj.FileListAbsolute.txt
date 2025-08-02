@@ -1,0 +1,14 @@
+C:\Users\Shamil_Aliyev\source\repos\ObjectLifeTime\ObjectLifeTime\bin\Debug\net8.0\ObjectLifeTime.exe
+C:\Users\Shamil_Aliyev\source\repos\ObjectLifeTime\ObjectLifeTime\bin\Debug\net8.0\ObjectLifeTime.deps.json
+C:\Users\Shamil_Aliyev\source\repos\ObjectLifeTime\ObjectLifeTime\bin\Debug\net8.0\ObjectLifeTime.runtimeconfig.json
+C:\Users\Shamil_Aliyev\source\repos\ObjectLifeTime\ObjectLifeTime\bin\Debug\net8.0\ObjectLifeTime.dll
+C:\Users\Shamil_Aliyev\source\repos\ObjectLifeTime\ObjectLifeTime\bin\Debug\net8.0\ObjectLifeTime.pdb
+C:\Users\Shamil_Aliyev\source\repos\ObjectLifeTime\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shamil_Aliyev\source\repos\ObjectLifeTime\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.AssemblyInfoInputs.cache
+C:\Users\Shamil_Aliyev\source\repos\ObjectLifeTime\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.AssemblyInfo.cs
+C:\Users\Shamil_Aliyev\source\repos\ObjectLifeTime\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.csproj.CoreCompileInputs.cache
+C:\Users\Shamil_Aliyev\source\repos\ObjectLifeTime\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.dll
+C:\Users\Shamil_Aliyev\source\repos\ObjectLifeTime\ObjectLifeTime\obj\Debug\net8.0\refint\ObjectLifeTime.dll
+C:\Users\Shamil_Aliyev\source\repos\ObjectLifeTime\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.pdb
+C:\Users\Shamil_Aliyev\source\repos\ObjectLifeTime\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.genruntimeconfig.cache
+C:\Users\Shamil_Aliyev\source\repos\ObjectLifeTime\ObjectLifeTime\obj\Debug\net8.0\ref\ObjectLifeTime.dll

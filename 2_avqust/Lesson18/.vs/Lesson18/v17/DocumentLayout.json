@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shamil_Aliyev\\source\\repos\\Lesson18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{537BD9F7-92BE-47C3-AEE4-DE6DDA31C00F}|TheScrapeLibrary\\TheScrapeLibrary.csproj|c:\\users\\shamil_aliyev\\source\\repos\\lesson18\\thescrapelibrary\\scrape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537BD9F7-92BE-47C3-AEE4-DE6DDA31C00F}|TheScrapeLibrary\\TheScrapeLibrary.csproj|solutionrelative:thescrapelibrary\\scrape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993486BC-0D61-49DB-B1E1-F56D44237267}|ScrapeClient\\ScrapeClient.csproj|c:\\users\\shamil_aliyev\\source\\repos\\lesson18\\scrapeclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993486BC-0D61-49DB-B1E1-F56D44237267}|ScrapeClient\\ScrapeClient.csproj|solutionrelative:scrapeclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shamil_Aliyev\\source\\repos\\Lesson18\\ScrapeClient\\Program.cs",
+              "RelativeDocumentMoniker": "ScrapeClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Shamil_Aliyev\\source\\repos\\Lesson18\\ScrapeClient\\Program.cs",
+              "RelativeToolTip": "ScrapeClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T13:22:55.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Scrape.cs",
+              "DocumentMoniker": "C:\\Users\\Shamil_Aliyev\\source\\repos\\Lesson18\\TheScrapeLibrary\\Scrape.cs",
+              "RelativeDocumentMoniker": "TheScrapeLibrary\\Scrape.cs",
+              "ToolTip": "C:\\Users\\Shamil_Aliyev\\source\\repos\\Lesson18\\TheScrapeLibrary\\Scrape.cs",
+              "RelativeToolTip": "TheScrapeLibrary\\Scrape.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T13:22:28.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

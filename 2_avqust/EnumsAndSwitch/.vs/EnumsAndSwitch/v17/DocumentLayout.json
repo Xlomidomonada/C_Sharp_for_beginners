@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shamil_Aliyev\\source\\repos\\EnumsAndSwitch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25A2D09D-527E-4FFF-85BD-B1FD6443235C}|EnumsAndSwitch\\EnumsAndSwitch.csproj|c:\\users\\shamil_aliyev\\source\\repos\\enumsandswitch\\enumsandswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A2D09D-527E-4FFF-85BD-B1FD6443235C}|EnumsAndSwitch\\EnumsAndSwitch.csproj|solutionrelative:enumsandswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shamil_Aliyev\\source\\repos\\EnumsAndSwitch\\EnumsAndSwitch\\Program.cs",
+              "RelativeDocumentMoniker": "EnumsAndSwitch\\Program.cs",
+              "ToolTip": "C:\\Users\\Shamil_Aliyev\\source\\repos\\EnumsAndSwitch\\EnumsAndSwitch\\Program.cs",
+              "RelativeToolTip": "EnumsAndSwitch\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T18:03:49.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

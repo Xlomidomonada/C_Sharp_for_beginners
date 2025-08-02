@@ -1,0 +1,11 @@
+C:\Users\Shamil_Aliyev\source\repos\MyCodeLibrary\MyCodeLibrary\bin\Debug\net8.0\MyCodeLibrary.deps.json
+C:\Users\Shamil_Aliyev\source\repos\MyCodeLibrary\MyCodeLibrary\bin\Debug\net8.0\MyCodeLibrary.dll
+C:\Users\Shamil_Aliyev\source\repos\MyCodeLibrary\MyCodeLibrary\bin\Debug\net8.0\MyCodeLibrary.pdb
+C:\Users\Shamil_Aliyev\source\repos\MyCodeLibrary\MyCodeLibrary\obj\Debug\net8.0\MyCodeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shamil_Aliyev\source\repos\MyCodeLibrary\MyCodeLibrary\obj\Debug\net8.0\MyCodeLibrary.AssemblyInfoInputs.cache
+C:\Users\Shamil_Aliyev\source\repos\MyCodeLibrary\MyCodeLibrary\obj\Debug\net8.0\MyCodeLibrary.AssemblyInfo.cs
+C:\Users\Shamil_Aliyev\source\repos\MyCodeLibrary\MyCodeLibrary\obj\Debug\net8.0\MyCodeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Shamil_Aliyev\source\repos\MyCodeLibrary\MyCodeLibrary\obj\Debug\net8.0\MyCodeLibrary.dll
+C:\Users\Shamil_Aliyev\source\repos\MyCodeLibrary\MyCodeLibrary\obj\Debug\net8.0\refint\MyCodeLibrary.dll
+C:\Users\Shamil_Aliyev\source\repos\MyCodeLibrary\MyCodeLibrary\obj\Debug\net8.0\MyCodeLibrary.pdb
+C:\Users\Shamil_Aliyev\source\repos\MyCodeLibrary\MyCodeLibrary\obj\Debug\net8.0\ref\MyCodeLibrary.dll
